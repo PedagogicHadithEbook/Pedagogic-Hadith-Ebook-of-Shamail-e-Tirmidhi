@@ -1,0 +1,38 @@
+.tableContainer {
+    margin: 0 auto; /* center the container horizontally */
+    
+  }
+  
+  table {
+    border-collapse: collapse;
+    table-layout: fixed; /* set the table-layout property to fixed */
+    width: 100%; /* set the width of the table to 100% */
+  }
+  
+   th,
+  td {
+    padding: 8px;
+    text-align: center;
+    border: 2px solid #09090a;
+  }
+  
+   th {
+    background-color:#37485d;
+    font-weight: bold;
+    color:whitesmoke,
+  }
+  
+   td {
+    width: 33.33%; /* set the width of each column to 33.33% */
+  }
+  
+  /* table tbody tr:nth-child(even) td {
+    background-color: #596121;
+  }
+   */
+  table tbody td:hover {
+    background-color:whitesmoke;
+    color:midnightblue;
+   
+  }
+  
