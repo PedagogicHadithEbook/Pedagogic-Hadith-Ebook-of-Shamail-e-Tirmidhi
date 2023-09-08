@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/Pedagogic_Hadith_Ebook/static/css/main.4a190ae4.css",
-    "main.js": "/Pedagogic_Hadith_Ebook/static/js/main.05ff0296.js",
+    "main.css": "/Pedagogic_Hadith_Ebook/static/css/main.efb034a0.css",
+    "main.js": "/Pedagogic_Hadith_Ebook/static/js/main.656d41a5.js",
     "static/js/787.d05b7dc3.chunk.js": "/Pedagogic_Hadith_Ebook/static/js/787.d05b7dc3.chunk.js",
-    "static/media/Background.JPG": "/Pedagogic_Hadith_Ebook/static/media/Background.60937ea4dfbe0d6dd698.JPG",
-    "static/media/Background1.jpg": "/Pedagogic_Hadith_Ebook/static/media/Background1.5f8867cf4f96bcf60a10.jpg",
+    "static/media/Home.png": "/Pedagogic_Hadith_Ebook/static/media/Home.a8a84b81fec4a0704d89.png",
     "index.html": "/Pedagogic_Hadith_Ebook/index.html",
-    "main.4a190ae4.css.map": "/Pedagogic_Hadith_Ebook/static/css/main.4a190ae4.css.map",
-    "main.05ff0296.js.map": "/Pedagogic_Hadith_Ebook/static/js/main.05ff0296.js.map",
+    "main.efb034a0.css.map": "/Pedagogic_Hadith_Ebook/static/css/main.efb034a0.css.map",
+    "main.656d41a5.js.map": "/Pedagogic_Hadith_Ebook/static/js/main.656d41a5.js.map",
     "787.d05b7dc3.chunk.js.map": "/Pedagogic_Hadith_Ebook/static/js/787.d05b7dc3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a190ae4.css",
-    "static/js/main.05ff0296.js"
+    "static/css/main.efb034a0.css",
+    "static/js/main.656d41a5.js"
   ]
 }
